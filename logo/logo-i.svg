@@ -29,7 +29,7 @@
      inkscape:cx="229.18013"
      inkscape:cy="769.51007"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1366"
      inkscape:window-height="706"
@@ -69,7 +69,7 @@
        style="fill:#f5f5f5;stroke:#4b0082;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        r="30" />
     <path
-       style="fill:#7b68ee;fill-opacity:1;stroke:#4b0082;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#7b68ee;fill-opacity:1;stroke:#4b0082;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 98.560699,113.80913 a 10,10 0 0 1 -10,10 10,10 0 0 1 -10,-10 10,10 0 0 1 10,-10 10,10 0 0 1 10,10 z"
        id="path21" />
     <path
