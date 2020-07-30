@@ -15,8 +15,8 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (unknown)"
-   sodipodi:docname="logo-blue-cide.svg"
-   inkscape:export-filename="/home/ines/repos/small-projects/logo/logo-blue.png"
+   sodipodi:docname="logo-blue-code.svg"
+   inkscape:export-filename="/home/ines/repos/small-projects/logo/logo-blue-code.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.1459759"
-     inkscape:cx="229.18013"
-     inkscape:cy="750.87053"
+     inkscape:cx="165.8057"
+     inkscape:cy="748.30759"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -57,7 +57,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
