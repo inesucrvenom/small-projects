@@ -9,13 +9,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="617.77325"
+   height="307.96521"
+   viewBox="0 0 163.45251 81.482462"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (unknown)"
-   sodipodi:docname="logo-blue2.svg">
+   sodipodi:docname="logo-blue.svg"
+   inkscape:export-filename="/home/ines/repos/small-projects/logo/logo-blue-1280.png"
+   inkscape:export-xdpi="198.91"
+   inkscape:export-ydpi="198.91">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -25,14 +28,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.1459759"
-     inkscape:cx="298.93401"
-     inkscape:cy="762.07354"
+     inkscape:zoom="0.73202924"
+     inkscape:cx="239.75917"
+     inkscape:cy="42.895221"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1366"
-     inkscape:window-height="706"
+     inkscape:window-height="686"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -45,7 +48,13 @@
      inkscape:snap-intersection-paths="true"
      inkscape:snap-midpoints="false"
      inkscape:snap-smooth-nodes="true"
-     inkscape:snap-page="true" />
+     inkscape:snap-page="true"
+     units="px"
+     fit-margin-top="40"
+     fit-margin-left="195"
+     fit-margin-right="195"
+     fit-margin-bottom="40"
+     scale-x="1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -61,7 +70,8 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(13.165551,-53.093294)">
     <circle
        cy="93.809128"
        cx="68.560699"
@@ -69,7 +79,7 @@
        style="fill:#f5f5f5;stroke:#000080;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        r="30" />
     <path
-       style="fill:#dcdcdc;stroke:#4b0082;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       style="fill:#dcdcdc;fill-opacity:1;stroke:#4b0082;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 57.371556,121.64441 C 56.712297,105.46476 56.145537,89.261988 51.908601,73.976758 62.502942,78.259464 72.127635,76.530347 81.193321,71.335391 71.543008,89.201771 69.44022,106.54763 68.560698,123.80913"
        id="path4561"
        inkscape:connector-curvature="0"
@@ -376,7 +386,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Layer 2">
+     inkscape:label="Layer 2"
+     transform="translate(13.165551,-53.093294)">
     <path
        sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0"
