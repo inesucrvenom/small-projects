@@ -1,3 +1,5 @@
+![logo](logo-repo.png)
+
 # small-projects
 various short, learning projects at one place
 
