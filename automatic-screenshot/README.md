@@ -4,6 +4,6 @@ Define boundaries by first manual shot, and then you just give yourself enough t
 
 Since it's definitely more self documenting code peek into it for implementation details and options.
 
-Of course I've never looked at the booklet I've created with it, but it was to make it nevertheless.
+Of course I've never looked at the booklet I've created with it, but it was fun to make it nevertheless.
 
 Linux Fedora and XFCe if I remember correctly, but could be KDE.
