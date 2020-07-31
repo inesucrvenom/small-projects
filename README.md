@@ -4,7 +4,7 @@
 various short, learning projects at one place
 
 ## Licence
-**Tl;dr: Learn from here, don't present materials as yours.**
+**Tl;dr: Learn/use, don't present materials as yours.**
 
 Published under [MIT licence](LICENCE)
 
