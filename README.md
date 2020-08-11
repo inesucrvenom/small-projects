@@ -1,11 +1,9 @@
 ![logo](repo-mix.png)
 
 # small-projects
-various short projects at one place
+Various short projects that didn't get own home.
 
 ## Licence
-**Tl;dr: Learn/use, don't present materials as yours.**
-
 Published under [MIT licence](LICENCE)
 
 ![logo](repo-mix.png)
