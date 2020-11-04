@@ -8,7 +8,7 @@ July 2020
 
 tech: inkscape
 
-[logo](logo)
+**[logo](logo)**
 
 ## git diff analyser
 
@@ -27,9 +27,9 @@ problem: figure out which pictures between the two folders are:
 - modified in some way, and which
 in order to have a single source of truth.
 
-First, get the pictures which are potentially problematic, based on git diff result with [this notebook](analyse_git_diff/git_diff_analyser.ipynb)
+First, get the pictures which are potentially problematic, based on git diff result with **[this jupyter notebook](analyse_git_diff/git_diff_analyser.ipynb)**
 
-Then, deepen the analysis combining the data with json exif data [using the second notebook](analyse_git_diff/dig_with_json.ipynb)
+Then, deepen the analysis combining the data with json exif data **[using the second jupyter notebook](analyse_git_diff/dig_with_json.ipynb)**
 
 ## Licence
 All works here are published under [MIT licence](LICENCE)
