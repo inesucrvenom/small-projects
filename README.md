@@ -4,8 +4,8 @@
 Various short projects that didn't get own home.
 
 ## logo for my sites
-July 2020
-tech: inkscape
+July 2020 \\
+tech: inkscape \\
 [logo](logo)
 
 ## git diff analyser
