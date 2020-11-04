@@ -1,0 +1,3 @@
+diff --git "a/Arhiva/Igračka pilš ZEKO - ZELENI-Veliki. TIK-TIK-Krap. JUG. SAND 2.jpg" "b/slike/oglasi/Igračka pliš MIŠ - ZELENI-Veliki. TIK-TIK.Krap-Jugosl. SAND 5.jpg"
+diff --git "a/Arhiva/Vojna košulja JNA. Vel-41. Slovo AB. SAND 3.jpg" "b/slike/oglasi/Vojna JNA košulja. Vel-41 Slova AB. SAND 3.jpg"
+diff --git "a/Arhiva/Vojna košulja JNA. Vel-41. Slovo AB. SAND 4.jpg" "b/slike/oglasi/Vojna JNA košulja. Vel-41 Slova AB. SAND 4.jpg"
