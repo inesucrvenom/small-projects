@@ -1,4 +1,5 @@
 test/
 **/.ipynb_checkpoints
-bank_analyse/test.pdf
-bank_analyse/banka_izvodi
+bank_analyse/private_test.pdf
+bank_analyse/private_banka_izvodi
+bank_analyse/private_data_analysis.ipynb
