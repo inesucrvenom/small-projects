@@ -1,3 +1,5 @@
+![logo](../repo-python.png)
+
 # analyse bank statements
 
 November 2020
@@ -15,3 +17,5 @@ Current data is string only.
 Usage:
 - [create .json reports](create_json_yearly_report.ipynb) of whole year
 - import that file for [analysis](analyse_yearly_json_report.ipynb)
+
+![logo](../repo-python.png)
