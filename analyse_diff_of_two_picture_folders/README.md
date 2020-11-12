@@ -3,7 +3,7 @@
 # analyse diff of two picture folders
 November 2020
 
-tech: **pandas, git diff (for files), exiftool**, jupyter notebook, gvim, json
+tech: **pandas, git diff (for files), exiftool**, jupyter notebook, gvim regex
 
 Use case:
 - there are around 10000 photos in two folders, 'oglasi' and 'arhiva'
