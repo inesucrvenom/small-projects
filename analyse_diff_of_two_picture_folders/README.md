@@ -1,6 +1,6 @@
 ![logo](../repo-python.png)
 
-# analyse diff of two picture folders]
+# analyse diff of two picture folders
 November 2020
 
 tech: **pandas, git diff (for files), exiftool**, jupyter notebook, gvim, json
