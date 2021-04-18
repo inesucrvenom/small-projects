@@ -3,6 +3,10 @@
 # small-projects
 Various short projects that didn't get own home.
 
+## [attempt to make my own font](font-my_handwriting)
+April 2021
+
+tech: 
 
 ## [analyse bank statements](analyse_bank_statements)
 November 2020
